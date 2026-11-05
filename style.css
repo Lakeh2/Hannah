@@ -1,9 +1,8 @@
+h1 {
+    color: rgb(142, 142, 225);}
 body {
             background-image: url('clouds.gif');
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: 100% 100%;}
-h1 {
-    color: rgb(142, 142, 225);}
-p {
-    color: rgb(162, 107, 107);}
+
